@@ -1,0 +1,1 @@
+Run start.bat to install modules and start token generator
